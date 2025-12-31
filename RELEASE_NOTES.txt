@@ -1,0 +1,21 @@
+
+🚀 EarnLink Kenya v1.0.0 - Initial Production Release
+
+We are thrilled to announce the first official release of EarnLink Kenya! This version establishes the foundation for a transparent and secure referral network for Kenyans.
+
+### 🌟 What's New
+- **M-Pesa Integration**: Full integration with Raja SDK for seamless STK pushes and payouts.
+- **Referral Engine**: Multi-level reward tracking (Direct & Indirect) with instant balance updates.
+- **Dashboard v1**: A premium glassmorphic interface featuring a visual network tree and animated financial stats.
+- **Support & Transparency**: Dedicated Privacy Policy, Terms of Use, and a "Meet the Developer" section for trust and accountability.
+
+### 🛠 Technical Improvements
+- Migrated to React 19 for better state management.
+- Implemented hardware-accelerated CSS animations for a "native app" feel.
+- Enhanced Admin Panel with real-time cashflow charts using Recharts.
+
+### 📍 Location & Support
+Our support is now live from our Thika office (Kimbo-Ruiru). For inquiries, contact support@earnlink.co.ke.
+
+---
+**View the live site:** https://earn-link-kenya.vercel.app/
